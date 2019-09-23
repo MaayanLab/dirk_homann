@@ -1,2 +1,7 @@
 ARR_files_optional/
 CEL_files/*.CEL
+CEL_files/data*.txt
+.DS_Store
+*.pdf
+*.xlsx
+*.R
