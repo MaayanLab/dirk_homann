@@ -1,6 +1,7 @@
 ARR_files_optional/
 CEL_files/*.CEL
 CEL_files/data*.txt
+analysis_sandbox.ipynb
 .DS_Store
 *.pdf
 *.xlsx
