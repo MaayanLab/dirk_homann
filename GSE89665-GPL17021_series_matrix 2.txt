@@ -1,0 +1,11 @@
+	title	condition	geo_accession	source_name	organism	characteristics	relation
+GSM2674745	"LCMV_Help_001"	Help	"GSM2674745"	"spleen"	"Mus musculus"	"strain: C57BL/6JRj"	"SRX2933114"
+GSM2674746	"LCMV_Help_002"	Help	"GSM2674746"	"spleen"	"Mus musculus"	"strain: C57BL/6JRj"	"SRX2933115"
+GSM2674747	"LCMV_Help_003"	Help	"GSM2674747"	"spleen"	"Mus musculus"	"strain: C57BL/6JRj"	"SRX2933116"
+GSM2674748	"LCMV_Help_004"	Help	"GSM2674748"	"spleen"	"Mus musculus"	"strain: C57BL/6JRj"	"SRX2933117"
+GSM2674749	"LCMV_Help_005"	Help	"GSM2674749"	"spleen"	"Mus musculus"	"strain: C57BL/6JRj"	"SRX2933118"
+GSM2674750	"LCMV_No_Help_001"	No_Help	"GSM2674750"	"spleen"	"Mus musculus"	"strain: C57BL/6JRj"	"SRX2933119"
+GSM2674751	"LCMV_No_Help_002"	No_Help	"GSM2674751"	"spleen"	"Mus musculus"	"strain: C57BL/6JRj"	"SRX2933120"
+GSM2674752	"LCMV_No_Help_003"	No_Help	"GSM2674752"	"spleen"	"Mus musculus"	"strain: C57BL/6JRj"	"SRX2933121"
+GSM2674753	"LCMV_No_Help_004"	No_Help	"GSM2674753"	"spleen"	"Mus musculus"	"strain: C57BL/6JRj"	"SRX2933122"
+GSM2674754	"LCMV_No_Help_005"	No_Help	"GSM2674754"	"spleen"	"Mus musculus"	"strain: C57BL/6JRj"	"SRX2933123"
