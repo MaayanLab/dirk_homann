@@ -1,0 +1,9 @@
+Source Name	Individual	Organism	Phenotype	Array Data File	
+C1 RNA d8	8.1	Mus musculus	control	DH5881-CLMD_Mo-8.1.CEL	
+C2 RNA d8	8.2	Mus musculus	control	DH5881-CLMD_Mo-8.2.CEL	
+C3 RNA d8	8.3	Mus musculus	control	DH5881-CLMD_Mo-8.3.CEL	
+C4 RNA d8	8.4	Mus musculus	control	DH5881-CLMD_Mo-8.4.CEL	
+HL1 RNA d8	8.5	Mus musculus	helpless	DH5881-CLMD_Mo-8.5.CEL	
+HL2 RNA d8	8.6	Mus musculus	helpless	DH5881-CLMD_Mo-8.6.CEL	
+HL3 RNA d8	8.7	Mus musculus	helpless	DH5881-CLMD_Mo-8.7.CEL	
+HL4 RNA d8	8.8	Mus musculus	helpless	DH5881-CLMD_Mo-8.8.CEL	

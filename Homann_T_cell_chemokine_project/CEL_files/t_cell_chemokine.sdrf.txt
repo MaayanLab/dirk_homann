@@ -1,0 +1,15 @@
+chip	filename	day_post_infection	treatment	tissue	
+1	eberlein_d8_1_Mouse430_2.CEL	8	ex vivo	spleen	
+2	eberlein_d8_2_Mouse430_2.CEL	8	ex vivo	spleen	
+3	eberlein_d8_3_Mouse430_2.CEL	8	ex vivo	spleen	
+4	eberlein_d8_4_Mouse430_2.CEL	8	3h stimulation	spleen	
+5	eberlein_d8_5_Mouse430_2.CEL	8	3h stimulation	spleen	
+6	eberlein_d8_6_Mouse430_2.CEL	8	3h stimulation	spleen	
+7	eberlein_1_1_Mouse430_2.CEL	46	ex vivo	spleen	
+8	eberlein_1_2_Mouse430_2.CEL	46	ex vivo	spleen	
+9	eberlein_1_3_Mouse430_2.CEL	46	ex vivo	spleen	
+10	eberlein_1_4_Mouse430_2.CEL	46	ex vivo	spleen
+11	eberlein_1_5_Mouse430_2.CEL	46	3h stimulation	spleen	
+12	eberlein_1_6_Mouse430_2.CEL	46	3h stimulation	spleen	
+13	eberlein_1_7_Mouse430_2.CEL	46	3h stimulation	spleen	
+14	eberlein_1_8_Mouse430_2.CEL	46	3h stimulation	spleen	
