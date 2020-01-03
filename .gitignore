@@ -1,4 +1,5 @@
 .ipynb_checkpoints
+biostars/
 ARR_files_optional/
 CEL_files/*.CEL
 CEL_files/data*.txt
